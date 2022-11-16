@@ -1,4 +1,4 @@
-*Brute force HTTP authentication*
+#Brute force HTTP authentication#
 
 HTTP Basic Authentication is a known weak authentication system and isn’t often used in web apps anymore. However it is used quite frequently in locale network devices like routers and webcams. To complicate matters, these devices don’t have any lockout mechanisms in place to prevent password guessing attacks like dictionary or brute-force attacks.
 
